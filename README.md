@@ -23,6 +23,8 @@ Every time we launch a dart we take a screenshot with the kinect, and then we tw
 
 ![app-frontend](https://github.com/DavidAwad/KinectSentryGun/blob/master/images/FrontEndScreen.png?raw=true)
 
+![Our Front-End](http://kinectsentrygun.projects.benhgreen.com/)
+
 The next thing we did was build up a flask backend that's monitoring the twitter account and keeping a counter of how many tweets have been made by the gun, (the number of tweets!). 
 
 Our web app uses the BlockChain API in order to set up a virtual bitcoin wallet to charge 'users' after they have been shot in order to blackmail them into paying our wallet. The site also has a QR code that's generated that you can use to send a bitcoin. 
