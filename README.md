@@ -29,13 +29,13 @@ Every time we launch a dart we take a screenshot with the kinect, and then we tw
 
 [Our Front-End](http://kinectsentrygun.projects.benhgreen.com/)
 
-The next thing we did was build up a flask backend that's monitoring the twitter account and keeping a counter of how many tweets have been made by the gun, (the number of tweets!). 
+The next thing we did was build up a flask backend that's monitoring the twitter account and keeping a counter of how many shots have been made by the gun, (the number of tweets!). 
 
 Our web app uses the BlockChain API in order to set up a virtual bitcoin wallet to charge 'users' after they have been shot in order to blackmail them into paying our wallet. The site also has a QR code that's generated that you can use to send bitcoin.  
 
-With the bitcoin we can also store the bitcoin addresses we receive bitcoins with the tweets they are associated with inside of MongoDB so that we can then process users paying our backend in order to delete their embarassing photos!
+With the bitcoin we can also store the bitcoin addresses we receive bitcoins with the tweets they are associated with inside of MongoDB so that we can then process users paying our backend wallet in order to delete their embarassing photos!
 
-Once a user pays money to the backend, the tweet will be deleted, and we'll make some money!
+Once a user pays money to the backend, the tweet will be deleted, and we'll make some bitcoin!
 
 ## Hardware:
 1. Microsoft Kinect 2
