@@ -2,6 +2,10 @@
 
 ![computers](https://github.com/DavidAwad/KinectSentryGun/blob/master/images/computers.jpg?raw=true)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/5VJsE5mrT44/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ## How it works
 This app uses a Microsoft Kinect in order to watch any given area. What the app will do is while the camera is on, the sentry is "watching". 
 
