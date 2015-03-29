@@ -25,7 +25,7 @@ Every time we launch a dart we take a screenshot with the kinect, and then we tw
 
 The next thing we did was build up a flask backend that's monitoring the twitter account and keeping a counter of how many tweets have been made by the gun, (the number of tweets!). 
 
-Our web app uses the BlockChain API in order to set up a virtual bitcoin wallet to charge 'users' after they have been shot in order to blackmail them into paying our wallet.
+Our web app uses the BlockChain API in order to set up a virtual bitcoin wallet to charge 'users' after they have been shot in order to blackmail them into paying our wallet. The site also has a QR code that's generated that you can use to send a bitcoin. 
 
 Once a user pays money to the backend, the tweet will be deleted, and we'll make some money!
 
@@ -42,8 +42,7 @@ Once a user pays money to the backend, the tweet will be deleted, and we'll make
 
 ## Resources and Examples
 1. Look at the Body Index Basics and /Color Basics in the Microsoft Kinect SDK Browser V2. This will explain how most of the code works.
-2.
-
+2. Look at example and basic I/O in Arduino. 
 
 #### This is our submission for HackPSU sponsored by MLH. Huge thanks to my teammates and other PSU students and mentors!! 
 
