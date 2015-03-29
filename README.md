@@ -22,16 +22,29 @@ The nerf gun is something we bought from walmart that we purchased in the beginn
 
 Every time we launch a dart we take a screenshot with the kinect, and then we tweet the photo of the person after they've been shot. 
 
+The next thing we did was build up a flask backend that's monitoring the twitter account and keeping a counter of how many tweets have been made by the gun, (the number of tweets!). 
 
-The next thing we did was build up a flask backend that's monitoring the twitter account and keeping a counter of how many tweets have been made by the gun, aka how many 
+Our web app uses the BlockChain API in order to set up a virtual bitcoin wallet to charge 'users' after they have been shot in order to blackmail them into paying our wallet.
 
-This is my submission for HackPSU sponsored by MLH. Huge thanks to my teammates and other PSU students and mentors!! 
+Once a user pays money to the backend, the tweet will be deleted, and we'll make some money!
 
-## Running the app
+## Hardware:
+1. Microsoft Kinect 2
+2. Nerf Dart Gun
+3. Arduino UNO or Arduino Mega.
 
 
+### Dependencies: 
+1. Microsoft Kinect 2 SDK
+2. Arduino IDE 
+3. Python 2.7.8 or greater 
+
+## Resources and Examples
+1. Look at the Body Index Basics and /Color Basics in the Microsoft Kinect SDK Browser V2. This will explain how most of the code works.
+2.
 
 
+#### This is our submission for HackPSU sponsored by MLH. Huge thanks to my teammates and other PSU students and mentors!! 
 ## Contributors 
 [Mariam Tsilosani](https://www.facebook.com/tim.giblin.50?fref=ts&__mref=message_bubble)
 
@@ -49,3 +62,4 @@ Of Course [Alex Suirbely](I DON'T KNOW A LINK)
 
 ![Major League Hacking](http://mlh.io/assets/logos/mlh-small-text-21f0abdc906225a212cac33b7c6a5139.png) 
 
+#### *A windows machine is required for the Kinect Binaries unfortunately! 
