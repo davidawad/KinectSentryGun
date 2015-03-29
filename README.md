@@ -43,6 +43,7 @@ This is my submission for HackPSU sponsored by MLH. Huge thanks to my teammates 
 
 [George El-Mallakh](https://www.youtube.com/watch?v=Jkoeu_aSkjc)
 
+Of Course [Alex Suirbely](I DON'T KNOW A LINK)
 
 ![HACK PSU Logo](http://www.hackpsu.org/images/hackpsu3-2.png) 
 
