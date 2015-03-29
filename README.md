@@ -55,7 +55,7 @@ Once a user pays money to the backend, the tweet will be deleted, and we'll make
 #### This is our submission for HackPSU sponsored by MLH. Huge thanks to my teammates and other PSU students and mentors!! 
 
 # Contributors 
-##[Mariam Tsilosani](https://www.facebook.com/tim.giblin.50?fref=ts&__mref=message_bubble)
+##[Mariam Tsilosani](https://www.github.com/mariamtsilosani/)
 
 ##[Tim Giblin](https://www.facebook.com/tim.giblin.50?fref=ts&__mref=message_bubble)
 
