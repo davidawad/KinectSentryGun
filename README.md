@@ -14,7 +14,6 @@ The nerf gun is something we bought from walmart that we purchased in the beginn
 
 ![](https://github.com/DavidAwad/KinectSentryGun/blob/master/images/gun_teardown3.jpg?raw=true) 
 
-
 ###The nerf gun is being controlled by an Arduino Mega that has contacts which have been soldered and tied with electrical tape to the internals of the gun.
 ![](https://github.com/DavidAwad/KinectSentryGun/blob/master/images/gun_teardown4.jpg?raw=true)
 
@@ -45,20 +44,24 @@ Once a user pays money to the backend, the tweet will be deleted, and we'll make
 
 
 #### This is our submission for HackPSU sponsored by MLH. Huge thanks to my teammates and other PSU students and mentors!! 
-## Contributors 
-[Mariam Tsilosani](https://www.facebook.com/tim.giblin.50?fref=ts&__mref=message_bubble)
 
-[Tim Giblin](https://www.facebook.com/tim.giblin.50?fref=ts&__mref=message_bubble)
+# Contributors 
+##[Mariam Tsilosani](https://www.facebook.com/tim.giblin.50?fref=ts&__mref=message_bubble)
 
-[Robert Casale](https://github/gearheads)
+##[Tim Giblin](https://www.facebook.com/tim.giblin.50?fref=ts&__mref=message_bubble)
 
-[Ben Green](https://github.com/benhgreen)
+##[Robert Casale](https://github/gearheads)
 
-[George El-Mallakh](https://www.youtube.com/watch?v=Jkoeu_aSkjc)
+##[Ben Green](https://github.com/benhgreen)
 
-Of Course [Alex Suirbely](I DON'T KNOW A LINK)
+##[George El-Mallakh](https://www.youtube.com/watch?v=Jkoeu_aSkjc)
 
-![HACK PSU Logo](http://www.hackpsu.org/images/hackpsu3-2.png) 
+# Special Thanks
+##[Alex Suirbely](I DON'T KNOW A LINK)
+
+##Mike Swift
+
+![HACK PSU Logo](http://www.hackpsu.org/images/hackpsu3-2.png)
 
 ![Major League Hacking](http://mlh.io/assets/logos/mlh-small-text-21f0abdc906225a212cac33b7c6a5139.png) 
 
