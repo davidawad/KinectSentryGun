@@ -1,9 +1,13 @@
 # KinectSentryGun
 
+![computers](https://github.com/DavidAwad/KinectSentryGun/blob/master/images/computers.jpg?raw=true)
+
 ## How it works
 This app uses a Microsoft Kinect in order to watch any given area. What the app will do is while the camera is on, the sentry is "watching". 
 
 While the sentry is watching any given area, the Kinect will know when a person's body has walked in front of the camera. If a person has walked in front of the camera then we will instantly send a signal to an automatic machine nerf gun. 
+
+
 
 The nerf gun is something we bought from walmart that we purchased in the beginning of the hackathon, we opened it and with the help of the PSU mentors reverse engineered the signals to launch the darts. 
 
