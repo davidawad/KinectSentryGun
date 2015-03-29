@@ -7,13 +7,21 @@ This app uses a Microsoft Kinect in order to watch any given area. What the app 
 
 While the sentry is watching any given area, the Kinect will know when a person's body has walked in front of the camera. If a person has walked in front of the camera then we will instantly send a signal to an automatic machine nerf gun. 
 
-
+![initial teardown](https://github.com/DavidAwad/KinectSentryGun/blob/master/images/inital_teardown.jpg?raw=true)
 
 The nerf gun is something we bought from walmart that we purchased in the beginning of the hackathon, we opened it and with the help of the PSU mentors reverse engineered the signals to launch the darts. 
+![init 2](https://github.com/DavidAwad/KinectSentryGun/blob/master/images/gun_teardown2.jpg?raw=true)
 
-The nerf gun is being controlled by an Arduino Mega that has contacts which have been soldered and tied with electrical tape to the internals of the gun.
+![](https://github.com/DavidAwad/KinectSentryGun/blob/master/images/gun_teardown3.jpg?raw=true) 
+
+
+###The nerf gun is being controlled by an Arduino Mega that has contacts which have been soldered and tied with electrical tape to the internals of the gun.
+![](https://github.com/DavidAwad/KinectSentryGun/blob/master/images/gun_teardown4.jpg?raw=true)
+
+![](https://github.com/DavidAwad/KinectSentryGun/blob/master/images/gun_teardown5.jpg?raw=true)
 
 Every time we launch a dart we take a screenshot with the kinect, and then we tweet the photo of the person after they've been shot. 
+
 
 The next thing we did was build up a flask backend that's monitoring the twitter account and keeping a counter of how many tweets have been made by the gun, aka how many 
 
