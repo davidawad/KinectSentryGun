@@ -71,7 +71,9 @@ Once a user pays money to the backend, the tweet will be deleted, and we'll make
 # Special Thanks
 ##[Alex Suirbely](I DON'T KNOW A LINK)
 
-##Mike Swift
+##[Justin Keenan]()
+
+## Mike Swift
 
 ![HACK PSU Logo](http://www.hackpsu.org/images/hackpsu3-2.png)
 
