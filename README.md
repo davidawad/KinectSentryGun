@@ -33,6 +33,9 @@ The next thing we did was build up a flask backend that's monitoring the twitter
 
 Our web app uses the BlockChain API in order to set up a virtual bitcoin wallet to charge 'users' after they have been shot in order to blackmail them into paying our wallet. The site also has a QR code that's generated that you can use to send bitcoin.  
 
+![bitcoin](https://bitcoin.org/img/icons/logotop.svg)
+![Blockchain](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Fwww.bitcoinweb.nl%2Fnieuws%2F670%2Fapple-verwijdert-blockchain-app-uit-app-store%2F&ei=Mb0YVY_QNIOyggSSioGoCw&bvm=bv.89381419,d.eXY&psig=AFQjCNGZQBeerOZZ6Aalv4nrIO_l1Z0gxw&ust=1427771056667569)
+
 With the bitcoin we can also store the bitcoin addresses we receive bitcoins with the tweets they are associated with inside of MongoDB so that we can then process users paying our backend wallet in order to delete their embarassing photos!
 
 Once a user pays money to the backend, the tweet will be deleted, and we'll make some bitcoin!
