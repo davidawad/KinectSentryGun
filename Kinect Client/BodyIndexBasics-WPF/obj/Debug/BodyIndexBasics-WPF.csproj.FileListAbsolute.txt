@@ -1,0 +1,15 @@
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\bin\AnyCPU\Debug\BodyIndexBasics-WPF.exe.config
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF_MarkupCompile.cache
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.g.resources
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyIndexBasics.Properties.Resources.resources
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\bin\AnyCPU\Debug\BodyIndexBasics-WPF.exe
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\bin\AnyCPU\Debug\BodyIndexBasics-WPF.pdb
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.exe
+C:\Users\Rob\Desktop\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.pdb
