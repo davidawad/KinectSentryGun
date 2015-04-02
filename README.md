@@ -58,22 +58,22 @@ Once a user pays money to the backend, the tweet will be deleted, and we'll make
 #### This is our submission for HackPSU sponsored by MLH. Huge thanks to my teammates and other PSU students and mentors!! 
 
 # Contributors 
-##[Mariam Tsilosani](https://www.github.com/mariamtsilosani/)
+###[Mariam Tsilosani](https://www.github.com/mariamtsilosani/)
 
-##[Tim Giblin](https://www.facebook.com/tim.giblin.50?fref=ts&__mref=message_bubble)
+###[Tim Giblin](https://www.facebook.com/tim.giblin.50?fref=ts&__mref=message_bubble)
 
-##[Robert Casale](https://github/gearheads)
+###[Robert Casale](https://github/gearheads)
 
-##[Ben Green](https://github.com/benhgreen)
+###[Ben Green](https://github.com/benhgreen)
 
-##[George El-Mallakh](https://www.youtube.com/watch?v=Jkoeu_aSkjc)
+###[George El-Mallakh](https://www.youtube.com/watch?v=Jkoeu_aSkjc)
 
 # Special Thanks
-##[Alex Suirbely](I DON'T KNOW A LINK)
+###[Alex Suirbely](I DON'T KNOW A LINK)
 
-##[Justin Keenan]()
+###[Justin Keenan]()
 
-## Mike Swift
+### Mike Swift
 
 ![HACK PSU Logo](http://www.hackpsu.org/images/hackpsu3-2.png)
 
