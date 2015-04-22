@@ -1,6 +1,8 @@
 # KinectSentryGun
 
 ![computers](https://github.com/DavidAwad/KinectSentryGun/blob/master/images/computers.jpg?raw=true)
+## What is it? 
+The Kinect Sentry Gun Project was a nerf gun purchased from a local walmart that we hooked up to an arduino, and then used a microsoft kinect. Whenever someone walked in front of the kinect the gun would shoot at them. 
 
 ## How it works
 This app uses a Microsoft Kinect in order to watch any given area. What the app will do is while the camera is on, the sentry is "watching". 
