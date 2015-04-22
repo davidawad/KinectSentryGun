@@ -4,6 +4,8 @@
 ## What is it? 
 The Kinect Sentry Gun Project was a nerf gun purchased from a local walmart that we hooked up to an arduino, and then used a microsoft kinect. Whenever someone walked in front of the kinect the gun would shoot at them. 
 
+The kinect would then take a picture of them being fired at and post their reactions to twitter, if the person is embarassed by the photo they can pay our backend in bitcoin to have the photo removed! : ) 
+
 ## How it works
 This app uses a Microsoft Kinect in order to watch any given area. What the app will do is while the camera is on, the sentry is "watching". 
 
