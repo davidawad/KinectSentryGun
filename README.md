@@ -78,8 +78,8 @@ Once a user pays money to the backend, the tweet will be deleted, and we'll make
 
 ### Mike Swift
 
-![HACK PSU Logo](http://www.hackpsu.org/images/hackpsu3-2.png)
+![HACK PSU Logo](http://hackpsu.org/hackpsulogo.png)
 
-![Major League Hacking](http://mlh.io/assets/logos/mlh-small-text-21f0abdc906225a212cac33b7c6a5139.png) 
+![Major League Hacking](https://mlh.io/brand-assets/logo-grayscale/mlh-logo-grayscale-small.png) 
 
 #### *A windows machine is required for the Kinect Binaries unfortunately! 
