@@ -1,15 +1,18 @@
 # KinectSentryGun
 
 ![computers](https://github.com/DavidAwad/KinectSentryGun/blob/master/images/computers.jpg?raw=true)
-## What is it? 
-The Kinect Sentry Gun Project was a nerf gun purchased from a local walmart that we hooked up to an arduino, and then used a microsoft kinect. Whenever someone walked in front of the kinect the gun would shoot at them. 
 
-The kinect would then take a picture of them being fired at and post their reactions to twitter, if the person is embarassed by the photo they can pay our backend in bitcoin to have the photo removed! : ) 
+### Demo Videos can be found [here](https://www.youtube.com/watch?v=8pf7SqESG_c) and [here](https://www.youtube.com/watch?v=5VJsE5mrT44) 
+
+## What is it? 
+The Kinect Sentry Gun Project was an electric gun purchased from a local walmart that we opened up, and hooked up to an arduino, and set it up with a microsoft kinect. Whenever someone walked in front of the kinect the gun would shoot at them. 
+
+The kinect would then take a picture of them being fired at and post their reactions to twitter, if the person is embarassed by the photo they can pay our backend in bitcoin to have the photo removed!
 
 ## How it works
 This app uses a Microsoft Kinect in order to watch any given area. What the app will do is while the camera is on, the sentry is "watching". 
 
-While the sentry is watching any given area, the Kinect will know when a person's body has walked in front of the camera. If a person has walked in front of the camera then we will instantly send a signal to an automatic machine nerf gun. 
+While the sentry is watching any given area, the Kinect will know when a person's body has walked in front of the camera. If a person has walked in front of the camera then we will instantly send a signal to the dart gun. 
 
 ![initial teardown](https://github.com/DavidAwad/KinectSentryGun/blob/master/images/inital_teardown.jpg?raw=true)
 
